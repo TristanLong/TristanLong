@@ -1,36 +1,50 @@
-<a href="#" target="_blank">
-  <img src="svg/kimlongdev.svg" width="1200" alt="kimlongdev" />
-</a>
-
-<br>
-<div align=center>
-  
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TristanLong&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TristanLong&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanLong&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TristanLong&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100011521064714&mibextid=LQQJ4d" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/>
+  <a href="#">
+    <img src="svg/kimlongdev.svg" width="1200" alt="KimLongDev Banner" />
   </a>
-  
-  <a href="https://instagram.com/goldragon11" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
-  </a>
-  <a href="mailto:trieukimlong102000@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73663&center=true&vCenter=true&width=500&lines=Backend+Specialist;Software+Architecture+(MVC%2C+MVVM);Java+%26+Spring+Boot+Ecosystem;Clean+Code+%26+Algorithms" alt="Typing SVG" />
   </a>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,git&theme=dark" />
+</div>
+
+<h2 align="center">👨‍💻 Engineering Profile</h2>
+<div align="center">
+  <p>
+    Welcome! I am a passionate <strong>Backend Developer</strong> focused on building scalable systems.<br>
+    I prioritize <strong>Software Architecture</strong> and <strong>Data Structures</strong>.
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=TristanLong&label=Profile%20Views&color=ff69b4&style=flat" alt="Views" />
+</div>
+
+<hr/>
+
+<h2 align="center">📊 Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TristanLong&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TristanLong&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" height="160" alt="languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/trieu-kim-long/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:trieukimlong102000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
