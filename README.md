@@ -26,11 +26,6 @@
 
 <h2 align="center">📊 Activity Graph</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TristanLong&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TristanLong&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" height="160" alt="languages" />
-</div>
-
 <br/>
 
 <div align="center">
